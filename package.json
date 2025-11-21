@@ -1,0 +1,18 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Simple TODO app",
+  "license": "ISC",
+  "author": "Umzzy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.20.1",
+    "nodemon": "^3.1.11"
+  }
+}
