@@ -118,7 +118,3 @@ This project does not currently have a specified license. All rights are reserve
 ## Acknowledgments
 
 *   This project utilizes [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/).
-
-## Demo
-
-DEMO
